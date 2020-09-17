@@ -1,0 +1,11 @@
+.correct {
+    color: greenyellow;
+}
+
+.incorrect {
+    color: red;
+}
+
+.container {
+    margin-top: 50px;
+}
